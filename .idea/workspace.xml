@@ -10,72 +10,79 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list id="ca412035-0884-4bc1-bb38-672f1808e85b" name="some changes" comment="remove from tracking&#10;">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Travel-Mate.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_1_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_ToxicBakery_viewpager_transforms_view_pager_transforms_1_2_32.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_afollestad_material_dialogs_core_0_9_6_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cardview_v7_22_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_27_1_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_commonsware_cwac_camera_0_6_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_eftimoff_android_pathview_1_0_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_estimote_sdk_0_9_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_ParkSangGwon_TedPicker_v1_0_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_3_6_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_dmytrodanylyk_android_process_button_library_1_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_flavienlaurent_datetimepicker_library_0_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_rey5137_material_1_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_traex_rippleeffect_library_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_15_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_15_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_location_15_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_maps_15_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_places_placereport_15_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_15_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_8_5_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_annotations_8_5_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_miguelcatalan_materialsearchview_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_ms_square_expandableTextView_0_1_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_nineoldandroids_library_2_4_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_9_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_13_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_picasso_picasso_2_5_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__de_hdodenhof_circleimageview_2_0_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__me_zhanghai_android_materialprogressbar_library_1_4_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_lucasr_twowayview_twowayview_0_1_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/Android.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list id="ca412035-0884-4bc1-bb38-672f1808e85b" name="some changes" comment="remove from tracking&#10;" />
     <list default="true" id="18f4d44c-dbfb-4776-bf55-ab149593c42e" name="Default" comment="">
-      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/description/PlacesOnMap.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/description/PlacesOnMap.java" />
+      <change beforePath="" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/androidTest/java/io/github/project_tourist_routes/ChangeTextBehaviorTest.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/build.gradle" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/build.gradle" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/androidTest/java/io/github/project_travel_mate/ApplicationTest.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/androidTest/java/io/github/project_tourist_routes/ApplicationTest.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/AndroidManifest.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/AndroidManifest.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/flipviewpager/adapter/BaseFlipAdapter.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/flipviewpager/adapter/BaseFlipAdapter.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/LocationService.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/LocationService.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/MainActivity.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/MainActivity.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/SelectCity.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/SelectCity.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/Splash.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/Splash.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/CityAdapter.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/CityAdapter.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/CityFragment.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/CityFragment.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/description/FinalCityInfo.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/description/FinalCityInfo.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/description/FinalCityInfoPresenter.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/description/FinalCityInfoPresenter.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/description/FinalCityInfoView.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/description/FinalCityInfoView.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/description/PlacesOnMap.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/description/PlacesOnMap.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/description/Tweets.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/description/Tweets.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/description/TweetsAdapter.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/description/TweetsAdapter.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/funfacts/FunFacts.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/funfacts/FunFacts.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/funfacts/FunFactsPresenter.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/funfacts/FunFactsPresenter.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/funfacts/FunFactsView.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/funfacts/FunFactsView.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/funfacts/FunfactFragment.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/funfacts/FunfactFragment.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/login/LoginActivity.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/login/LoginActivity.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/login/LoginPresenter.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/login/LoginPresenter.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/login/LoginView.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/login/LoginView.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/Hotels.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/Hotels.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/MapRealTimeActivity.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/MapRealTimeActivity.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/ShoppingAdapter.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/ShoppingAdapter.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/ShoppingCurrentCity.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/ShoppingCurrentCity.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/TravelFragment.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/TravelFragment.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/mytrips/AddNewTrip.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/mytrips/AddNewTrip.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/mytrips/MyTripFriendnameAdapter.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/mytrips/MyTripFriendnameAdapter.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/mytrips/MyTripInfo.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/mytrips/MyTripInfo.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/mytrips/MyTripInfoImagesAdapter.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/mytrips/MyTripInfoImagesAdapter.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/mytrips/MyTrips.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/mytrips/MyTrips.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/mytrips/MyTripsAdapter.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/mytrips/MyTripsAdapter.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/mytrips/TripImage.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/mytrips/TripImage.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/transport/BusAdapter.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/transport/BusAdapter.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/transport/BusList.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/transport/BusList.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/transport/CarDirections.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/transport/CarDirections.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/transport/SelectModeOfTransport.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/transport/SelectModeOfTransport.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/transport/TrainAdapter.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/transport/TrainAdapter.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/transport/TrainList.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/transport/TrainList.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/utilities/Checklist.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/utilities/Checklist.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/utilities/ChecklistFragment.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/utilities/ChecklistFragment.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/utilities/EmergencyFragment.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/utilities/EmergencyFragment.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/utilities/ShareContact.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/utilities/ShareContact.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/utilities/UtilitiesFragment.java" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/utilities/UtilitiesFragment.java" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable/google_travel_logo.png" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable/google_travel_logo.png" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_bus_list.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_bus_list.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_car_directions.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_car_directions.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_check_list.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_check_list.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_final_city_info.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_final_city_info.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_fun_facts.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_fun_facts.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_hotels.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_hotels.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_login.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_login.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_map_realtime.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_map_realtime.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_my_trip_info.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_my_trip_info.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_places_on_map.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_places_on_map.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_select_city.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_select_city.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_select_mode_of_transport.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_select_mode_of_transport.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_share_contact.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_share_contact.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_shopping_currentcity.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_shopping_currentcity.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_splash.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_splash.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_train_list.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_train_list.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_tweets.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_tweets.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/content_check_list.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/content_check_list.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/content_citylist.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/content_citylist.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/content_travel.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/content_travel.xml" />
+      <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/raw/google_travel_logo.svg" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/raw/google_travel_logo.svg" />
       <change beforePath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/values/strings.xml" afterPath="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/values/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -130,6 +137,26 @@
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="install" type="c8890929:TasksNode$1" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Android" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Android" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Android" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -139,44 +166,124 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CityFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/CityFragment.java">
+      <file leaf-file-name="ApplicationTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/androidTest/java/io/github/project_tourist_routes/ApplicationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2142">
-              <caret line="160" column="21" lean-forward="false" selection-start-line="160" selection-start-column="21" selection-end-line="160" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SelectCity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/SelectCity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1512">
-              <caret line="116" column="38" lean-forward="false" selection-start-line="116" selection-start-column="38" selection-end-line="116" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlacesOnMap.java" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/description/PlacesOnMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="89" column="21" lean-forward="true" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+            <state relative-caret-position="144">
+              <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlacesOnMap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/description/PlacesOnMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7074">
+              <caret line="447" column="0" lean-forward="false" selection-start-line="447" selection-start-column="0" selection-end-line="447" selection-end-column="0" />
+              <folding>
+                <element signature="e#14212#14213#0" expanded="true" />
+                <element signature="e#14251#14252#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FinalCityInfoView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/description/FinalCityInfoView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FinalCityInfoPresenter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/description/FinalCityInfoPresenter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FinalCityInfo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/description/FinalCityInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChangeTextBehaviorTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/androidTest/java/io/github/project_tourist_routes/ChangeTextBehaviorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TravelFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/TravelFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShoppingCurrentCity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/ShoppingCurrentCity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShoppingAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/ShoppingAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapRealTimeActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/MapRealTimeActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="57" column="13" lean-forward="false" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>sea</find>
-      <find>String uri = &quot;http://10.0.2.2:8000/api/get-all-cities&quot;;</find>
       <find>descri</find>
       <find>also k</find>
       <find>description</find>
@@ -205,7 +312,12 @@
       <find>bahai</find>
       <find>temp</find>
       <find>delhi</find>
+      <find>travel_mate</find>
+      <find>Travel Mate</find>
     </findStrings>
+    <replaceStrings>
+      <replace>tourist_routes</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/AndroidProjects/TravelRoutes" />
@@ -2226,15 +2338,21 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/build.gradle" />
         <option value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/MapRealTimeActivity.java" />
         <option value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/description/FinalCityInfoPresenter.java" />
         <option value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/utils/GPSTracker.java" />
         <option value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/SelectCity.java" />
         <option value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/CityFragment.java" />
         <option value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/.gitignore" />
-        <option value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/values/strings.xml" />
         <option value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/description/PlacesOnMap.java" />
+        <option value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/values/strings.xml" />
+        <option value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/androidTest/java/io/github/project_travel_mate/ApplicationTest.java" />
+        <option value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/androidTest/java/io/github/project_travel_mate/SAD.java" />
+        <option value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/build.gradle" />
+        <option value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/androidTest/java/io/github/project_travel_mate/ChangeTextBehaviorTest.java" />
+        <option value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/MainActivity.java" />
+        <option value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/androidTest/java/io/github/project_tourist_routes/SplashTest.java" />
+        <option value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/description/PlacesOnMap.java" />
       </list>
     </option>
   </component>
@@ -2260,8 +2378,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2302,7 +2420,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="project_travel_mate" type="462c0819:PsiDirectoryNode" />
+              <item name="adapters" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Android" type="b2602c69:ProjectViewProjectNode" />
@@ -2311,7 +2429,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="project_travel_mate" type="462c0819:PsiDirectoryNode" />
+              <item name="project_tourist_routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="project_tourist_routes" type="462c0819:PsiDirectoryNode" />
               <item name="destinations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -2321,7 +2448,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="project_travel_mate" type="462c0819:PsiDirectoryNode" />
+              <item name="project_tourist_routes" type="462c0819:PsiDirectoryNode" />
               <item name="destinations" type="462c0819:PsiDirectoryNode" />
               <item name="description" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -2332,53 +2459,49 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="project_travel_mate" type="462c0819:PsiDirectoryNode" />
+              <item name="project_tourist_routes" type="462c0819:PsiDirectoryNode" />
               <item name="travel" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Android" type="b2602c69:ProjectViewProjectNode" />
               <item name="Android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="project_travel_mate" type="462c0819:PsiDirectoryNode" />
-              <item name="travel" type="462c0819:PsiDirectoryNode" />
-              <item name="mytrips" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Android" type="b2602c69:ProjectViewProjectNode" />
               <item name="Android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="objects" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="intermediates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Android" type="b2602c69:ProjectViewProjectNode" />
               <item name="Android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="intermediates" type="462c0819:PsiDirectoryNode" />
+              <item name="lint-cache" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Android" type="b2602c69:ProjectViewProjectNode" />
               <item name="Android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2388,6 +2511,15 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/c2a708e2105f0c3c355fdd2ffc2a86c4/res" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.1.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="device.picker.selection" value="Pixel_2_XL_API_27" />
+    <property name="SearchEverywhereHistoryKey" value="pla&#9;FILE&#9;file:///home/tt/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/description/PlacesOnMap.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable" />
+      <recent name="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/raw" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2401,7 +2533,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.Android:app [installDebug]">
+  <component name="RunManager" selected="Gradle.Android:app [build]">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -2470,6 +2602,50 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
     </configuration>
+    <configuration name="ChangeTextBehaviorTest" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="io.github.project_tourist_routes.ChangeTextBehaviorTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+      </Profilers>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -2484,7 +2660,7 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="Android:app [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Android:app [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app" />
@@ -2495,7 +2671,25 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="assemble" />
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    </configuration>
+    <configuration name="Android:app [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -2514,6 +2708,24 @@
         <option name="taskNames">
           <list>
             <option value="installDebug" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    </configuration>
+    <configuration name="Android:app [uninstallDebugAndroidTest]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$USER_HOME$/AndroidProjects/TravelRoutes/Android/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="uninstallDebugAndroidTest" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -2572,15 +2784,21 @@
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Gradle.Android:app [assemble]" />
-      <item index="1" class="java.lang.String" itemvalue="Gradle.Android:app [installDebug]" />
-      <item index="2" class="java.lang.String" itemvalue="Android App.app" />
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Android App.app" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.Android:app [uninstallDebugAndroidTest]" />
+      <item index="2" class="java.lang.String" itemvalue="Gradle.Android:app [installDebug]" />
+      <item index="3" class="java.lang.String" itemvalue="Android Instrumented Tests.ChangeTextBehaviorTest" />
+      <item index="4" class="java.lang.String" itemvalue="Gradle.Android:app [clean]" />
+      <item index="5" class="java.lang.String" itemvalue="Gradle.Android:app [build]" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Gradle.Android:app [installDebug]" />
-        <item index="1" class="java.lang.String" itemvalue="Gradle.Android:app [assemble]" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Gradle.Android:app [build]" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.Android:app [clean]" />
+        <item index="2" class="java.lang.String" itemvalue="Android Instrumented Tests.ChangeTextBehaviorTest" />
+        <item index="3" class="java.lang.String" itemvalue="Gradle.Android:app [installDebug]" />
+        <item index="4" class="java.lang.String" itemvalue="Gradle.Android:app [uninstallDebugAndroidTest]" />
       </list>
     </recent_temporary>
   </component>
@@ -2616,9 +2834,16 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="ChangeTextBehaviorTest - 2018.06.28 at 23h 29m 47s.xml">
+      <configuration name="ChangeTextBehaviorTest" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ChangeTextBehaviorTest - 2018.06.28 at 23h 29m 59s.xml">
+      <configuration name="ChangeTextBehaviorTest" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="293" y="53" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2627,21 +2852,20 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5019369" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4980631" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16602103" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15329275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18040952" sideWeight="0.4935484" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18040952" sideWeight="0.5064516" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2650,6 +2874,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982844" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -2693,276 +2918,111 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/objects/Trip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/adapters/NestedListView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/adapters/ImageAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/ShoppingAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-630">
-          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/LocationService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-486">
-          <caret line="85" column="8" lean-forward="false" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/login/LoginActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-846">
-          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/c2a708e2105f0c3c355fdd2ffc2a86c4/jars/classes.jar!/com/google/android/gms/maps/MapFragment.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/Hotels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="49" column="13" lean-forward="false" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/utils/ChecklistEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/utils/DBhelp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/utils/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-442">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/views/FontTextView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/utils/TouchImageView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/utils/Services.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/mytrips/MyTrips.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/mytrips/MyTripInfoImagesAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/mytrips/AddNewTrip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3168">
-          <caret line="46" column="13" lean-forward="false" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/mytrips/MyTripsAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="39" column="27" lean-forward="false" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/ShoppingCurrentCity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="169" column="45" lean-forward="false" selection-start-line="169" selection-start-column="45" selection-end-line="169" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/mytrips/MyTripInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="217" column="25" lean-forward="false" selection-start-line="217" selection-start-column="25" selection-end-line="217" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/CityAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/flipviewpager/view/FlipViewPager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="506" column="0" lean-forward="false" selection-start-line="506" selection-start-column="0" selection-end-line="506" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/flipviewpager/adapter/BaseFlipAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="59" column="74" lean-forward="false" selection-start-line="59" selection-start-column="73" selection-end-line="59" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/description/FinalCityInfoView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/mytrips/MyTripFriendnameAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_map_realtime.xml">
-      <provider editor-type-id="android-designer2">
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable/bus.jpg">
+      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1782">
-          <caret line="99" column="56" lean-forward="false" selection-start-line="99" selection-start-column="56" selection-end-line="99" selection-end-column="56" />
-        </state>
-      </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/funfact_fragment.xml">
-      <provider editor-type-id="android-designer2">
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable/hangout.png">
+      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="49" column="30" lean-forward="false" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_final_city_info.xml">
-      <provider editor-type-id="android-designer2">
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable/location.jpg">
+      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable/shadow_1.9.png">
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable/round_textview.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="36" column="45" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="45" />
-          <folding>
-            <element signature="e#1540#1563#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/travel/MapRealTimeActivity.java">
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable/side_nav_bar.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-720">
-          <caret line="55" column="37" lean-forward="false" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/description/FinalCityInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="223" column="24" lean-forward="false" selection-start-line="223" selection-start-column="24" selection-end-line="223" selection-end-column="24" />
-          <folding>
-            <element signature="e#2876#2909#0" expanded="false" />
-          </folding>
-        </state>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable/transport.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/objects/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="27" column="60" lean-forward="false" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
-          <folding />
-        </state>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable/twitter.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-27/android/content/ContextWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="648" column="25" lean-forward="false" selection-start-line="648" selection-start-column="25" selection-end-line="648" selection-end-column="25" />
-        </state>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable-hdpi/ic_call_white_24dp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable-hdpi/ic_camera_alt_black_24dp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable-hdpi/ic_check_circle_white_24dp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable-hdpi/ic_cloud_black_48dp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable-hdpi/ic_explore_white_48dp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable-hdpi/ic_local_bar_black_24dp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable-hdpi/ic_local_hospital_black_24dp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable-hdpi/ic_local_gas_station_black_24dp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable-hdpi/ic_local_atm_black_24dp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable-hdpi/ic_directions_bus_black_24dp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable-hdpi/ic_share_white_24dp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable-hdpi/ic_share_black_24dp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/raw/google_travel_logo.svg">
@@ -2970,160 +3030,215 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-27/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-235">
-          <caret line="565" column="6" lean-forward="false" selection-start-line="565" selection-start-column="6" selection-end-line="565" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-27/android/widget/Spinner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-775">
-          <caret line="68" column="13" lean-forward="false" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/utils/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-27/android/widget/ListView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="149" column="13" lean-forward="false" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/flipviewpager/utils/FlipSettings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="37" column="28" lean-forward="false" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/c2a708e2105f0c3c355fdd2ffc2a86c4/jars/classes.jar!/com/google/android/gms/maps/OnMapReadyCallback.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-27/android/util/Pair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/SelectCity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="116" column="38" lean-forward="false" selection-start-line="116" selection-start-column="38" selection-end-line="116" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/CityFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2142">
-          <caret line="160" column="21" lean-forward="false" selection-start-line="160" selection-start-column="21" selection-end-line="160" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/description/FinalCityInfoPresenter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="57" column="53" lean-forward="false" selection-start-line="57" selection-start-column="53" selection-end-line="57" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/utils/GPSTracker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-          <folding>
-            <element signature="e#5072#5073#0" expanded="false" />
-            <element signature="e#5099#5100#0" expanded="false" />
-            <element signature="e#5560#5561#0" expanded="false" />
-            <element signature="e#5602#5603#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lucasr.twowayview/twowayview/0.1.4/48a0cb79a55b789ab922fd3941d40a086abda600/twowayview-0.1.4-sources.jar!/org/lucasr/twowayview/TwoWayView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="90" column="13" lean-forward="false" selection-start-line="90" selection-start-column="13" selection-end-line="90" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_places_on_map.xml">
-      <provider editor-type-id="android-designer2">
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable/google_travel_logo.png">
+      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable/google_travel_logo.svg" />
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable-hdpi/ic_pin_drop_black_24dp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable-hdpi/ic_local_pizza_black_24dp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_add_new_trip.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_bus_list.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/layout/activity_car_directions.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/raw/google_travel_logo.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable-hdpi/ic_playlist_add_check_white_24dp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/drawable-hdpi/ic_pin_drop_white_24dp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/res/values/strings.xml">
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="144" column="82" lean-forward="true" selection-start-line="144" selection-start-column="82" selection-end-line="144" selection-end-column="82" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/androidTest/java/io/github/project_travel_mate/SAD.java" />
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/CityFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2056">
+          <caret line="93" column="40" lean-forward="false" selection-start-line="93" selection-start-column="40" selection-end-line="93" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="111" column="59" lean-forward="true" selection-start-line="111" selection-start-column="59" selection-end-line="111" selection-end-column="59" />
+        <state relative-caret-position="1404">
+          <caret line="78" column="1" lean-forward="false" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/adapters/ImageAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/login/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="31" lean-forward="false" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/androidTest/java/io/github/project_tourist_routes/ApplicationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
-            <element signature="e#1606#1624#0" expanded="true" />
-            <element signature="e#2068#2086#0" expanded="true" />
-            <element signature="e#2572#2608#0" expanded="true" />
-            <element signature="e#2760#2796#0" expanded="true" />
-            <element signature="e#2967#3017#0" expanded="true" />
-            <element signature="e#3180#3219#0" expanded="true" />
-            <element signature="e#3531#3570#0" expanded="true" />
-            <element signature="e#3672#3705#0" expanded="true" />
-            <element signature="e#3864#3909#0" expanded="true" />
-            <element signature="e#4068#4103#0" expanded="true" />
-            <element signature="e#4249#4280#0" expanded="true" />
-            <element signature="e#4439#4467#0" expanded="true" />
-            <element signature="e#4606#4624#0" expanded="true" />
-            <element signature="e#5009#5043#0" expanded="true" />
-            <element signature="e#5255#5285#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_travel_mate/destinations/description/PlacesOnMap.java">
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/androidTest/java/io/github/project_tourist_routes/SplashTest.java" />
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="89" column="21" lean-forward="true" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+        <state relative-caret-position="-1432">
+          <caret line="33" column="50" lean-forward="false" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/SelectCity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="116" column="38" lean-forward="false" selection-start-line="116" selection-start-column="38" selection-end-line="116" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/androidTest/java/io/github/project_tourist_routes/ChangeTextBehaviorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/TravelFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/ShoppingCurrentCity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/ShoppingAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/travel/MapRealTimeActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="57" column="13" lean-forward="false" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/description/PlacesOnMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7074">
+          <caret line="447" column="0" lean-forward="false" selection-start-line="447" selection-start-column="0" selection-end-line="447" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#14212#14213#0" expanded="true" />
+            <element signature="e#14251#14252#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/description/FinalCityInfoView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/description/FinalCityInfoPresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidProjects/TravelRoutes/Android/app/src/main/java/io/github/project_tourist_routes/destinations/description/FinalCityInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
